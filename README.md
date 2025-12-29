@@ -36,7 +36,7 @@ This project focuses on:
 
 ---
 
-## 🛠 DEMO
+## DEMO
 
 https://company-profile-theta-six.vercel.app/
 
